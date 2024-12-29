@@ -10,3 +10,5 @@ Welcome to the **Snacks Restaurant** repository! This project is designed to pra
 
 - Understand and apply conditional statements (`if-else`, `switch`).
 - Learn how to use loops effectively (`for`, `while`, and `do-while`).
+
+ [**Live URL**]( https://noorsroor.github.io/snacks-restaurant/)
