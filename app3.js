@@ -34,6 +34,7 @@ if(gen =="Male") {
 //call div
 let div=document.getElementById('container');
 
+
 //create elements
 let nameHtml= document.createElement('p');
 let list= document.createElement('ol');
