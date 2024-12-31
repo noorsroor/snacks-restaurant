@@ -26,6 +26,7 @@ if(gen =="Male") {
 }else {
     window.alert("Welcome "+ username);
 }
+
 }
 
 
